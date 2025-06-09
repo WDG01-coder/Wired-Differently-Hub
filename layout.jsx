@@ -1,0 +1,1 @@
+<html><body><MainComponent /></body></html>
